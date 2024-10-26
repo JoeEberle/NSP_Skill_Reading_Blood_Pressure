@@ -1,0 +1,9 @@
+2024-10-23 23:21:10,967 - INFO - START NSP_Skill_Reading_Blood_Pressure =============================================
+2024-10-23 23:21:10,967 - INFO - START NSP_Skill_Reading_Blood_Pressure Start Time = 2024-10-23 23:21:10
+2024-10-23 23:21:10,967 - INFO - NSP_Skill_Reading_Blood_Pressure Step 0 - Initialize the configuration file parser
+2024-10-23 23:21:10,968 - INFO - Process NSP_Skill_Reading_Blood_Pressure Step 0 - Initializing and starting Logging Process.
+2024-10-23 23:21:11,028 - INFO - PERFORMANCE NSP_Skill_Reading_Blood_Pressure The total process duration was:0.06
+2024-10-23 23:21:11,028 - INFO - PERFORMANCE NSP_Skill_Reading_Blood_Pressure Stop Time = 2024-10-23 23:21:11
+2024-10-23 23:21:11,028 - INFO - PERFORMANCE NSP_Skill_Reading_Blood_Pressure Short process duration less than 3 Seconds:0.06
+2024-10-23 23:21:11,028 - INFO - PERFORMANCE NSP_Skill_Reading_Blood_Pressure Performance optimization is not reccomended
+2024-10-23 23:21:11,029 - INFO - END NSP_Skill_Reading_Blood_Pressure =============================================
